@@ -10,18 +10,18 @@ Clear all of the data from the "Data" tab and fill it in with your neighborhood'
 - Last sold Date
 - Last sold amount (USD)
 - 2016 
--- Total Assessed Value
--- Total Building Value
--- Total Land Value
+  * Total Assessed Value
+  * Total Building Value
+  * Total Land Value
 - 2017
--- Total Assessed Value
--- Total Building Value
--- Total Land Value
+  * Total Assessed Value
+  * Total Building Value
+  * Total Land Value
 - 2018
--- Total Assessed Value
--- Total Building Value
--- Total Land Value
+  * Total Assessed Value
+  * Total Building Value
+  * Total Land Value
 - 2019
--- Total Assessed Value
--- Total Building Value
--- Total Land Value
+  * Total Assessed Value
+  * Total Building Value
+  * Total Land Value
